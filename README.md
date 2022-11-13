@@ -6,6 +6,6 @@ Working on [Advent of Code](https://adventofcode.com/)!
 
 | day | Problem | A | B | Stars won |
 |----:|:--------|:--|:--|:----------|
-|   1 |         |   |   |           |
+|     |         |   |   |           |
 
 *Badges from: https://github.com/J0B10/aoc-badges-action*
