@@ -23,14 +23,13 @@ func main() {
 func mostCalories(lines []string, topScores []int) []int {
 	var currentElf int
 	for i, line := range lines {
-		switch line {
-		case "":
+		if line == "" { // Empty line, so the last elf is done
 			topScores = addIfBigger(currentElf, topScores)
 			currentElf = 0 // Reset the count for the next elf
-		default:
+		} else {
 			calories := libaoc.SilentAtoi(line)
 			currentElf += calories
-			if i == len(lines)-1 {
+			if i == len(lines)-1 { // If no more lines are coming, also tally the last elf
 				topScores = addIfBigger(currentElf, topScores)
 			}
 		}
