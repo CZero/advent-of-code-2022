@@ -2,7 +2,7 @@
 
 Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 
-![](https://img.shields.io/badge/stars%20⭐-14-yellow) ![](https://img.shields.io/badge/days%20completed-7-red)
+![](https://img.shields.io/badge/stars%20⭐-18-yellow) ![](https://img.shields.io/badge/days%20completed-9-red)
 
 | day | Problem                 | A                        | B                        | Stars won                                            |
 |----:|:------------------------|:-------------------------|:-------------------------|:-----------------------------------------------------|
@@ -15,5 +15,6 @@ Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 |  07 | No Space Left On Device | [**A**](day07/a/main.go) | [**B**](day07/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-0-yellow) |
 |  08 | Treetop Tree House      | [**A**](day08/a/main.go) | [**B**](day08/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  09 | Rope Bridge             | [**A**](day09/a/main.go) | [**B**](day09/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|  10 | Cathode-Ray Tube        | [**A**](day10/a/main.go) | [**B**](day10/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 
 *Badges from: https://github.com/J0B10/aoc-badges-action*
