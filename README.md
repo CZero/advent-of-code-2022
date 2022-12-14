@@ -2,7 +2,7 @@
 
 Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 
-![](https://img.shields.io/badge/stars%20⭐-22-yellow) ![](https://img.shields.io/badge/days%20completed-11-red)
+![](https://img.shields.io/badge/stars%20⭐-24-yellow) ![](https://img.shields.io/badge/days%20completed-12-red)
 
 | day | Problem                 | A                        | B                        | Stars won                                            |
 |----:|:------------------------|:-------------------------|:-------------------------|:-----------------------------------------------------|
@@ -17,5 +17,6 @@ Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 |  09 | Rope Bridge             | [**A**](day09/a/main.go) | [**B**](day09/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  10 | Cathode-Ray Tube        | [**A**](day10/a/main.go) | [**B**](day10/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  11 | Monkey in the Middle    | [**A**](day11/a/main.go) | [**B**](day11/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|  12 | Hill Climbing Algorithm | [**A**](day12/a/main.go) | [**B**](day12/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 
 *Badges from: https://github.com/J0B10/aoc-badges-action*
